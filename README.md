@@ -251,16 +251,16 @@
 ## **SPEEDUP GRAPHS**
 
 > ### **Work-Stealing**
-![speedup-work-stealing](proj3/benchmark/speedup-work-stealing.png)
+![speedup-work-stealing](/benchmark/speedup-work-stealing.png)
 
 > ### **Work-Balancing**
-![speedup-work-balancing](proj3/benchmark/speedup-work-balancing.png)
+![speedup-work-balancing](/benchmark/speedup-work-balancing.png)
 
 > ### **Combined Work-Stealing and Work-Balancing Graph**
-![speedup](proj3/benchmark/speedup.png)
+![speedup](/benchmark/speedup.png)
 
 > ### **Time Taken (64 threads for parallel versions)**
-![Time Taken](proj3/benchmark/time-taken.png)
+![Time Taken](/benchmark/time-taken.png)
 
 ---
 ## **N Body Interaction Animation**
@@ -279,7 +279,7 @@
 
 ---
 ## **EXECUTION**
-* From the editor folder (/proj3/editor)
+* From the editor folder (//editor)
 * ```go run editor.go```
   * Will run the program with the default configuration
   * Number of bodies = 10,000, Iterations = 100, Write to file = no, Mode = sequential, Print to console = no
